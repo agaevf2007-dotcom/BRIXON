@@ -1,0 +1,780 @@
+{
+  "haier-as25s2sf2fa": {
+    "id": "haier-as25s2sf2fa",
+    "brand": "Haier",
+    "model": "AS25S2SF2FA-G",
+    "category": "air-conditioners",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/450924e3b5311233d8cea110214a4c4fb3c798ae.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Haier_AS50TDAHRA_1.jpg/1920px-Haier_AS50TDAHRA_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/Climatizzatore_Haier_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Climatizzatore_Haier_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/Motore_condizionatore_Haier_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Motore_condizionatore_Haier_2.jpg"
+    ]
+  },
+  "electrolux-eacs-12hat": {
+    "id": "electrolux-eacs-12hat",
+    "brand": "Electrolux",
+    "model": "EACS-12HAT/N3",
+    "category": "air-conditioners",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Air_conditioners_at_%C3%86ON_Long_Bi%C3%AAn_%28A%29.jpg/1920px-Air_conditioners_at_%C3%86ON_Long_Bi%C3%AAn_%28A%29.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Air_conditioners_at_%C3%86ON_Long_Bi%C3%AAn_%28B%29.jpg/1920px-Air_conditioners_at_%C3%86ON_Long_Bi%C3%AAn_%28B%29.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Electrolux_air_conditioner_for_large_rooms.jpg/1920px-Electrolux_air_conditioner_for_large_rooms.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Electrolux_air_conditioner_for_smaller_rooms.jpg/1920px-Electrolux_air_conditioner_for_smaller_rooms.jpg"
+    ]
+  },
+  "xiaomi-smart-air-purifier-4-pro": {
+    "id": "xiaomi-smart-air-purifier-4-pro",
+    "brand": "Xiaomi",
+    "model": "Smart Air Purifier 4 Pro",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Xiaomi_Smart_Home_%2801%29.jpg/1920px-Xiaomi_Smart_Home_%2801%29.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Xiaomi_Smart_Home_%2802%29.jpg/1920px-Xiaomi_Smart_Home_%2802%29.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/XiaomiMiSmartBand4Front20200409.jpg/1920px-XiaomiMiSmartBand4Front20200409.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/XiaomiMiSmartBand4Back20200409.jpg/1920px-XiaomiMiSmartBand4Back20200409.jpg"
+    ],
+    "title": "",
+    "gtin": "",
+    "productCode": "Smart Air Purifier 4 Pro"
+  },
+  "philips-ac3033": {
+    "id": "philips-ac3033",
+    "brand": "Philips",
+    "model": "AC3033/30",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/79ab62af8538a81c44831fc388907ee9fda83cd5.jpg",
+      "https://images.icecat.biz/img/gallery/cc83c9b1fc75c4b7df137ed1122e3aa11c117132.jpg",
+      "https://images.icecat.biz/img/gallery/14e78c872f47def8f3b3c35a3811d31af1423666.jpg",
+      "https://images.icecat.biz/img/gallery/2cd1bbad337d27e8ca442de8833272f6b09d103a.jpg",
+      "https://images.icecat.biz/img/gallery/80fd1de72a0507ca228f4d7ab8bf8798a2df3e61.jpg",
+      "https://images.icecat.biz/img/gallery/650bbd36bd6a337d7670b12d1398858d528bbfcd.jpg"
+    ],
+    "title": "Philips 3000i Series AC3033/30 Air Purifier for XL Rooms",
+    "gtin": "8710103923190",
+    "productCode": "AC3033/30"
+  },
+  "xiaomi-smart-humidifier-2": {
+    "id": "xiaomi-smart-humidifier-2",
+    "brand": "Xiaomi",
+    "model": "Smart Humidifier 2",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Xiaomi_Smart_Air_Purifier_2S.jpg/1920px-Xiaomi_Smart_Air_Purifier_2S.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_Smart_Air_Purifier_2S_filter.jpg/1920px-Xiaomi_Smart_Air_Purifier_2S_filter.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Xiaomi_Mi_Band_8.jpg/1920px-Xiaomi_Mi_Band_8.jpg"
+    ],
+    "title": "",
+    "gtin": "",
+    "productCode": "Smart Humidifier 2"
+  },
+  "philips-hu4816": {
+    "id": "philips-hu4816",
+    "brand": "Philips",
+    "model": "HU4816/10",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/3863b6fd15ea341230ffbd5e5520fd4530130288.jpg",
+      "https://images.icecat.biz/img/gallery/a96165c9631e58e9b76f1e65d4859a7ef7950018.jpg",
+      "https://images.icecat.biz/img/gallery/995678b9ebd1fb7078bb849ddff99ea5c43129cb.jpg",
+      "https://images.icecat.biz/img/gallery/269c5e23041b71517cad0f91c3005330dfaae9dd.jpg",
+      "https://images.icecat.biz/img/gallery/c70bc32211b0bffa1885ca9d00ef59bcf503551b.jpg",
+      "https://images.icecat.biz/img/gallery/bd8a31d17f0976f48a4e0ea637582d42371a6c86.jpg"
+    ],
+    "title": "Philips 2000 series HU4816/10 humidifier Impeller 4 L White 18 W",
+    "gtin": "8710103916376",
+    "productCode": "HU4816/10"
+  },
+  "samsung-ue43cu7100": {
+    "id": "samsung-ue43cu7100",
+    "brand": "Samsung",
+    "model": "UE43CU7100",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/9cfa3b200ffe08be271b77c206988212bacf4cdf.jpg",
+      "https://images.icecat.biz/img/gallery/e13a4aa3c68541f14d1affa0f6e30b373c7b8c6e.jpg",
+      "https://images.icecat.biz/img/gallery/3ff5b111a881f128522ad0df52bfb139ec7e6be8.jpg",
+      "https://images.icecat.biz/img/gallery/566cc878551c84e7fa51511404602409b7294ffa.jpg",
+      "https://images.icecat.biz/img/gallery/b721771356f7efcae7b23bb6a3973a341b16d48e.jpg",
+      "https://images.icecat.biz/img/gallery/b4228071060340eb5c532ba26ee27733d0b81525.jpg"
+    ],
+    "title": "Samsung Series 7 UE43CU7100KXXU TV 109.2 cm (43\") 4K Ultra HD Smart TV Wi-Fi Black",
+    "gtin": "8806094846317",
+    "productCode": "UE43CU7100KXXU"
+  },
+  "xiaomi-tv-a-50-2025": {
+    "id": "xiaomi-tv-a-50-2025",
+    "brand": "Xiaomi",
+    "model": "TV A 50 2025",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/XIAOMI_HD_Internet_TV_Box.jpg/1920px-XIAOMI_HD_Internet_TV_Box.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Xiaomi_Mi_Box_S_remote.jpg/1920px-Xiaomi_Mi_Box_S_remote.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Xiaomi_Mi_Box_S.jpg/1920px-Xiaomi_Mi_Box_S.jpg"
+    ],
+    "title": "",
+    "gtin": "",
+    "productCode": "TV A 50 2025"
+  },
+  "samsung-qe55q80d": {
+    "id": "samsung-qe55q80d",
+    "brand": "Samsung",
+    "model": "QE55Q80D",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/053c0e7f5a5dda8ad3ff9c57f25192e2dc3879fd.jpg",
+      "https://images.icecat.biz/img/gallery/c443c4474d82395f9337742fa732ffc27995dd81.jpg",
+      "https://images.icecat.biz/img/gallery/ab8695cf62f0c22593146f68a0390c13938a6eef.jpg",
+      "https://images.icecat.biz/img/gallery/62129fb94e15e6c7f3c8d7ec53993e002ff48594.jpg",
+      "https://images.icecat.biz/img/gallery/72d2daff249fd45b1ec11b2f7d3d6eef248f54a8.jpg",
+      "https://images.icecat.biz/img/gallery/971b0620901e6a0c37f08b82cfe6eee27e219818.jpg"
+    ],
+    "title": "Samsung Q80D QE55Q80DAT 139.7 cm (55\") 4K Ultra HD Smart TV Wi-Fi Silver",
+    "gtin": "8806095439945",
+    "productCode": "QE55Q80DATXXH"
+  },
+  "lg-oled65c4": {
+    "id": "lg-oled65c4",
+    "brand": "LG",
+    "model": "OLED65C4",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/cdc8458fbb0f37548a60d20d6a8dbf3a459f42ec.jpg",
+      "https://images.icecat.biz/img/gallery/c270f6cbc3ccd70bf413edba1af80fe8b9efb43a.jpg",
+      "https://images.icecat.biz/img/gallery/6d51e2e7e7c8cd227622aec0dea26451bd8746c7.jpg",
+      "https://images.icecat.biz/img/gallery/3bbc498194875e887f8e2c2abb95641cc3dffa7a.jpg",
+      "https://images.icecat.biz/img/gallery/7015c4eef71a6c45fc106d8b9cc2bb6e4ba864de.jpg",
+      "https://images.icecat.biz/img/gallery/3e036c5f14f641bbb88f3e47cda8f92ddd77d0ea.jpg"
+    ],
+    "title": "LG OLED evo C4 OLED65C44LA TV 165.1 cm (65\") 4K Ultra HD Smart TV Wi-Fi Black",
+    "gtin": "8806091899941",
+    "productCode": "OLED65C44LA"
+  },
+  "sony-k-65xr90": {
+    "id": "sony-k-65xr90",
+    "brand": "Sony",
+    "model": "K-65XR90 BRAVIA 9",
+    "category": "televisions",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/62/SONY_television_top_of_the_line.jpg"
+    ]
+  },
+  "lg-oled77c4": {
+    "id": "lg-oled77c4",
+    "brand": "LG",
+    "model": "OLED77C4",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/0f3aaef8ae5cfca9ba8948356b315398602908bb.jpg"
+    ],
+    "title": "LG OLED evo C4 OLED77C44LA TV 195.6 cm (77\") 4K Ultra HD Smart TV Wi-Fi Black",
+    "gtin": "8806091906625",
+    "productCode": "OLED77C44LA"
+  },
+  "samsung-qe75qn90d": {
+    "id": "samsung-qe75qn90d",
+    "brand": "Samsung",
+    "model": "QE75QN90D",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/bc6459710152310b19be68ffdc984ed95e5c1197.jpg",
+      "https://images.icecat.biz/img/gallery/faf7e343f02b141eedf11c3dbfb5fe50ecaac315.jpg",
+      "https://images.icecat.biz/img/gallery/a1904a4399d70ce0224dcdb1aca8053d2d630555.jpg",
+      "https://images.icecat.biz/img/gallery/68d7fed3c72d6523f88129c89017985cb08fef16.jpg",
+      "https://images.icecat.biz/img/gallery/6d326149b1f5742320c06b14c149778abb1c5a9e.jpg",
+      "https://images.icecat.biz/img/gallery/c79d399a7ca117c5c4221a73a24cc73cae830888.jpg"
+    ],
+    "title": "Samsung QN90D QE75QN90DATXXH TV 190.5 cm (75\") 4K Ultra HD Smart TV Wi-Fi Black",
+    "gtin": "8806095414874",
+    "productCode": "QE75QN90DATXXH"
+  },
+  "sony-k-85s30": {
+    "id": "sony-k-85s30",
+    "brand": "Sony",
+    "model": "K-85S30 BRAVIA 3",
+    "ok": false,
+    "tried": [
+      "K-85S30",
+      "K-85S30BRAVIA3",
+      "XR85S30",
+      "K-85S30 BRAVIA 3"
+    ]
+  },
+  "samsung-ls27cg510eu": {
+    "id": "samsung-ls27cg510eu",
+    "brand": "Samsung",
+    "model": "LS27CG510EU Odyssey G5",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/88185a1d5a8a0abbdac012c6934ab7042ffd91a2.jpg",
+      "https://images.icecat.biz/img/gallery/e96c82cd7199e5aa54991176caabe11f1dfd3cc7.jpg",
+      "https://images.icecat.biz/img/gallery/a7e53b838472a6b09da137ea12caf6e662a67d7d.jpg",
+      "https://images.icecat.biz/img/gallery/46fd3669760a5a3c49974c948430522e334962fd.jpg",
+      "https://images.icecat.biz/img/gallery/2de4de4eea7a14ee5d2c472b4cd54059e0566526.jpg",
+      "https://images.icecat.biz/img/gallery/831e3f684404e7c86cc87669ec254e85c4f023cb.jpg"
+    ],
+    "title": "Samsung G51C computer monitor 68.6 cm (27\") 2560 x 1440 pixels Quad HD LED Black",
+    "gtin": "8806094659184",
+    "productCode": "LS27CG510EUXEN"
+  },
+  "lg-27gr83q": {
+    "id": "lg-27gr83q",
+    "brand": "LG",
+    "model": "27GR83Q-B UltraGear",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/6265208f98ec6799ecf5a72ed8d3c17f281fee45.jpg",
+      "https://images.icecat.biz/img/gallery/6dce68d420b863c0a10b1cf9837ae2eee9780e68.jpg",
+      "https://images.icecat.biz/img/gallery/7651a104a5a33a2c9990794d435816d99adbd9c6.jpg",
+      "https://images.icecat.biz/img/gallery/d3e95fad6c87c19518b46c6611ce85f031d9ee8d.jpg",
+      "https://images.icecat.biz/img/gallery/e33800b2fdde60341e3931933210a3d1a290c403.jpg",
+      "https://images.icecat.biz/img/gallery/31ac08f9e86594de33e989f31a247a2b1b62f21d.jpg"
+    ],
+    "title": "LG 27GR83Q-B computer monitor 68.6 cm (27\") 2560 x 1440 pixels 2K Ultra HD LED Black",
+    "gtin": "",
+    "productCode": "27GR83Q-B"
+  },
+  "sony-ht-a8000": {
+    "id": "sony-ht-a8000",
+    "brand": "Sony",
+    "model": "HT-A8000",
+    "ok": false,
+    "tried": [
+      "HT-A8000",
+      "HTA8000"
+    ]
+  },
+  "samsung-hw-q990d": {
+    "id": "samsung-hw-q990d",
+    "brand": "Samsung",
+    "model": "HW-Q990D",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/706ac8e1e3bab57fd19f119b11bd454e992a7424.jpg",
+      "https://images.icecat.biz/img/gallery/419fe877f9c86f31d14920a472da92f1ea7df446.jpg",
+      "https://images.icecat.biz/img/gallery/4f55b2287c9b178f2008f4852b54b56808413ac8.jpg",
+      "https://images.icecat.biz/img/gallery/2f62bbbabd6352ddf6ab21a2d2b18dc222f69016.jpg",
+      "https://images.icecat.biz/img/gallery/281c06090e93c24f1e602795d134caf676f17801.jpg",
+      "https://images.icecat.biz/img/gallery/4a344f658b39e5d41fa71cc8c5fb408cab212ef2.jpg"
+    ],
+    "title": "Samsung HW-Q990D/EN soundbar speaker Black, Graphite 11.1.4 channels",
+    "gtin": "8806095438825",
+    "productCode": "HW-Q990D/EN"
+  },
+  "bosch-kgn39aiat": {
+    "id": "bosch-kgn39aiat",
+    "brand": "Bosch",
+    "model": "KGN39AIAT",
+    "ok": false,
+    "tried": [
+      "KGN39AIAT"
+    ]
+  },
+  "samsung-rb38c7b5b12": {
+    "id": "samsung-rb38c7b5b12",
+    "brand": "Samsung",
+    "model": "RB38C7B5B12",
+    "ok": false,
+    "tried": [
+      "RB38C7B5B12"
+    ]
+  },
+  "lg-gbb72pzecn": {
+    "id": "lg-gbb72pzecn",
+    "brand": "LG",
+    "model": "GBB72PZECN",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/6becfecbc87715623a8e1b295430215bbfdab442.jpg",
+      "https://images.icecat.biz/img/gallery/e2a12c64ee4742460d6722a84603e0d277b5a74e.jpg",
+      "https://images.icecat.biz/img/gallery/2b17b1bc10214b20f5934aee77112b2ba61e19a8.jpg",
+      "https://images.icecat.biz/img/gallery/513d2cf3e0bdadd0b294ed08666d16da20247915.jpg",
+      "https://images.icecat.biz/img/gallery/81e2fda44bf1c36148e23d2122c508d264296daf.jpg",
+      "https://images.icecat.biz/img/gallery/b6e9209ced9463a0232bfb5c3e31866aa1e00e9f.jpg"
+    ],
+    "title": "LG GBB72PZECN fridge-freezer Freestanding 384 L Silver",
+    "gtin": "8806091079039",
+    "productCode": "GBB72PZECN"
+  },
+  "haier-htw7720enmp": {
+    "id": "haier-htw7720enmp",
+    "brand": "Haier",
+    "model": "HTW7720ENMP",
+    "category": "refrigerators",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/All-Haier-apartment-2709.jpg/1920px-All-Haier-apartment-2709.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Haier_Headquarter_in_Qingdao.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Haier_Industrial_Park_Qingdao_Panoramic_View.JPG/1920px-Haier_Industrial_Park_Qingdao_Panoramic_View.JPG",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Haier_Mini_Refridgerator.JPG/1920px-Haier_Mini_Refridgerator.JPG",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Inside_Haier_Mini_Refridgerator_%28Full%29.JPG/1920px-Inside_Haier_Mini_Refridgerator_%28Full%29.JPG"
+    ]
+  },
+  "bosch-gsn36ai3p": {
+    "id": "bosch-gsn36ai3p",
+    "brand": "Bosch",
+    "model": "GSN36AI3P",
+    "category": "freezers",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/-_panoramio_-_Gizerlerbosch_%281%29.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bosch_Electronic_no_frost_fridge_freezer_%282019%29_02.jpg/1920px-Bosch_Electronic_no_frost_fridge_freezer_%282019%29_02.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Bosch_Electronic_no_frost_fridge_freezer_%282019%29_03.jpg/1920px-Bosch_Electronic_no_frost_fridge_freezer_%282019%29_03.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bosch_Electronic_no_frost_fridge_freezer_%282019%29_01.jpg/1920px-Bosch_Electronic_no_frost_fridge_freezer_%282019%29_01.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bosch_Electronic_no_frost_fridge_freezer_%282019%29_05.jpg/1920px-Bosch_Electronic_no_frost_fridge_freezer_%282019%29_05.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bosch_Electronic_no_frost_fridge_freezer_%282019%29_04.jpg/1920px-Bosch_Electronic_no_frost_fridge_freezer_%282019%29_04.jpg"
+    ]
+  },
+  "haier-h2f-220waa": {
+    "id": "haier-h2f-220waa",
+    "brand": "Haier",
+    "model": "H2F-220WAA",
+    "category": "freezers",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/0322ef3a68c47d0f746d31837fd1c95df294d91b.jpg",
+      "https://images.icecat.biz/img/gallery/7e6ff1eb83c6c337b9d349d56450e5c45d593c03.jpg",
+      "https://images.icecat.biz/img/gallery/9a31cfc4927e290ce873f42cf32d86eac918f993.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Inside_Haier_Mini_Refridgerator.JPG/1920px-Inside_Haier_Mini_Refridgerator.JPG",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hardware_merchandising_%28January-June_1902%29_%281902%29_%2814778517331%29.jpg/1920px-Hardware_merchandising_%28January-June_1902%29_%281902%29_%2814778517331%29.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/20171027-AMS-LSC-0338_%2838068297471%29.jpg/1920px-20171027-AMS-LSC-0338_%2838068297471%29.jpg"
+    ]
+  },
+  "bosch-sms8yci01e": {
+    "id": "bosch-sms8yci01e",
+    "brand": "Bosch",
+    "model": "SMS8YCI01E",
+    "category": "dishwashers",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/IFA2012_Bosch.jpg/1920px-IFA2012_Bosch.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BoschRenningen-pjt.jpg/1920px-BoschRenningen-pjt.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Wittenau_Hermsdorfer_Stra%C3%9Fe_Bosch.jpg/1920px-Wittenau_Hermsdorfer_Stra%C3%9Fe_Bosch.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bosch-company-sign.webp/1920px-Bosch-company-sign.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/Kreuzlinienlaser_mit_Selbstnivellierung.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Volkswagen_T1_Doka_Classic-Gala_2022_1X7A0011.jpg/1920px-Volkswagen_T1_Doka_Classic-Gala_2022_1X7A0011.jpg"
+    ]
+  },
+  "miele-g7160": {
+    "id": "miele-g7160",
+    "brand": "Miele",
+    "model": "G 7160 SCVi",
+    "category": "dishwashers",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Miele_kookplaat_van_het_type_KM_361_G%2C_brander_links_achter.JPG/1920px-Miele_kookplaat_van_het_type_KM_361_G%2C_brander_links_achter.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/Vliegtuigbouwer_Van_Meel_achter_de_stuurknuppel_Dutch_aircraft_constructor_at_the_control_stick.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Thatching_-_Jheel_Meel_-_Kolkata_2011-12-22_7659.JPG/1920px-Thatching_-_Jheel_Meel_-_Kolkata_2011-12-22_7659.JPG",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Thatching_-_Jheel_Meel_-_Kolkata_2011-12-22_7660.JPG/1920px-Thatching_-_Jheel_Meel_-_Kolkata_2011-12-22_7660.JPG",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Pieter-Paul_Adrianus_van_Meel-IMG_4249.jpg/1920px-Pieter-Paul_Adrianus_van_Meel-IMG_4249.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Pieter-Paul_Adrianus_van_Meel-IMG_4257.jpg/1920px-Pieter-Paul_Adrianus_van_Meel-IMG_4257.jpg"
+    ]
+  },
+  "electrolux-ees48400l": {
+    "id": "electrolux-ees48400l",
+    "brand": "Electrolux",
+    "model": "EES48400L",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/5255995e609ccb0204e9c4eb2aa2081a14e1aeed.jpg",
+      "https://images.icecat.biz/img/gallery/1ef5d55a51ed01a808fd07d2e99b992b6a160b99.jpg",
+      "https://images.icecat.biz/img/gallery/a0b50078e27a05dfb959777a47e16d80d3aca54b.jpg",
+      "https://images.icecat.biz/img/gallery/6c711b7dcda1e20ace8f464420548617013b203f.jpg",
+      "https://images.icecat.biz/img/gallery/63a2f75d8d090dda6b499fb8745e43b969713c19.jpg",
+      "https://images.icecat.biz/img/gallery/75d4658b64a898276c24f6a2ed0f26dfece1e636.jpg"
+    ],
+    "title": "Electrolux EES48400L Fully built-in 14 place settings",
+    "gtin": "7332543975006",
+    "productCode": "EES48400L"
+  },
+  "bosch-hsg636bs1": {
+    "id": "bosch-hsg636bs1",
+    "brand": "Bosch",
+    "model": "HSG636BS1",
+    "ok": false,
+    "tried": [
+      "HSG636BS1"
+    ]
+  },
+  "siemens-hb675g0s1": {
+    "id": "siemens-hb675g0s1",
+    "brand": "Siemens",
+    "model": "HB675G0S1",
+    "ok": false,
+    "tried": [
+      "HB675G0S1"
+    ]
+  },
+  "electrolux-eoe8p31wx": {
+    "id": "electrolux-eoe8p31wx",
+    "brand": "Electrolux",
+    "model": "EOE8P31WX",
+    "ok": false,
+    "tried": [
+      "EOE8P31WX"
+    ]
+  },
+  "bosch-pxx675dc1e": {
+    "id": "bosch-pxx675dc1e",
+    "brand": "Bosch",
+    "model": "PXX675DC1E",
+    "ok": false,
+    "tried": [
+      "PXX675DC1E"
+    ]
+  },
+  "siemens-ex877lyv5e": {
+    "id": "siemens-ex877lyv5e",
+    "brand": "Siemens",
+    "model": "EX877LYV5E",
+    "ok": false,
+    "tried": [
+      "EX877LYV5E"
+    ]
+  },
+  "samsung-ms23k3513ak": {
+    "id": "samsung-ms23k3513ak",
+    "brand": "Samsung",
+    "model": "MS23K3513AK",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/a6637b3af61886268de56f5e6afe49f7133c1977.jpg",
+      "https://images.icecat.biz/img/gallery/809762b39b5b09b710bc9d1235e688c74f325b2d.jpg",
+      "https://images.icecat.biz/img/gallery/0f84f8ab99c667013908c31cf1a25798505c3182.jpg",
+      "https://images.icecat.biz/img/gallery/7ecd0e20f38ffdb88cf997aa6dacec457356c9fd.jpg",
+      "https://images.icecat.biz/img/gallery/c3bc7f7e8da50d82277caa95bb2c6493abc96d1d.jpg",
+      "https://images.icecat.biz/img/gallery/c82bb2ea723ddd21fbc847a9bd03efec069dcb0f.jpg"
+    ],
+    "title": "Samsung MS23K3513AK microwave Black Solo microwave Countertop 23 L 800 W",
+    "gtin": "8801643749354",
+    "productCode": "MS23K3513AK"
+  },
+  "bosch-bel554ms0": {
+    "id": "bosch-bel554ms0",
+    "brand": "Bosch",
+    "model": "BEL554MS0",
+    "ok": false,
+    "tried": [
+      "BEL554MS0"
+    ]
+  },
+  "bosch-dwk97jq60": {
+    "id": "bosch-dwk97jq60",
+    "brand": "Bosch",
+    "model": "DWK97JQ60",
+    "ok": false,
+    "tried": [
+      "DWK97JQ60"
+    ]
+  },
+  "electrolux-lft766x": {
+    "id": "electrolux-lft766x",
+    "brand": "Electrolux",
+    "model": "LFT766X",
+    "ok": false,
+    "tried": [
+      "LFT766X"
+    ]
+  },
+  "bosch-wgb256a40": {
+    "id": "bosch-wgb256a40",
+    "brand": "Bosch",
+    "model": "WGB256A40",
+    "ok": false,
+    "tried": [
+      "WGB256A40"
+    ]
+  },
+  "samsung-ww90t654dlh": {
+    "id": "samsung-ww90t654dlh",
+    "brand": "Samsung",
+    "model": "WW90T654DLH",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/f396445376ce1da81dd254544c1a73ad5d227126.jpg",
+      "https://images.icecat.biz/img/gallery/d3e10e71656f5896bffe01acab85d8a638c2f99d.jpg",
+      "https://images.icecat.biz/img/gallery/dd7a3decb12adeb6df82a5ea9e24ac97130f38f8.jpg",
+      "https://images.icecat.biz/img/gallery/28fd927ba98829778e43d360c65fe400fca40518.jpg",
+      "https://images.icecat.biz/img/gallery/c91f453f65f54932842097ffbed27a2ae8fdc3cb.jpg",
+      "https://images.icecat.biz/img/gallery/72f85c6e031bb05520463cc92789adec82cfd864.jpg"
+    ],
+    "title": "Samsung WW90T654DLH washing machine Front-load 9 kg 1400 RPM White",
+    "gtin": "8806090608049",
+    "productCode": "WW90T654DLH"
+  },
+  "lg-f4wv910p2s": {
+    "id": "lg-f4wv910p2s",
+    "brand": "LG",
+    "model": "F4WV910P2S",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/daeb71c6bcb2132fc6700e0cdf8bf098bdb40b4a.jpg",
+      "https://images.icecat.biz/img/gallery/b051582b03d8a55947bba7ef50b31bdfd4250d6e.jpg",
+      "https://images.icecat.biz/img/gallery/144c66a05def47946ded03514e1f4d302f53256b.jpg",
+      "https://images.icecat.biz/img/gallery/86dacd5dfd3d4fa1f335538cb25681c5161a4b39.jpg",
+      "https://images.icecat.biz/img/gallery/53b46468371f5830b9c63786212877f283dfec18.jpg",
+      "https://images.icecat.biz/img/gallery/9491235eb5b8188976bc5342756c22ba0840bd42.jpg"
+    ],
+    "title": "LG F4WV910P2S washing machine Front-load 10.5 kg 1400 RPM Black",
+    "gtin": "8806098431168",
+    "productCode": "F4WV910P2S"
+  },
+  "miele-wwg660": {
+    "id": "miele-wwg660",
+    "brand": "Miele",
+    "model": "WWG 660 WCS",
+    "ok": false,
+    "tried": [
+      "WWG660 WCS",
+      "WWG 660 WCS",
+      "WWG660",
+      "WWG660WCS",
+      "WWG"
+    ]
+  },
+  "haier-hw90-b14ig": {
+    "id": "haier-hw90-b14ig",
+    "brand": "Haier",
+    "model": "HW90-B14IG",
+    "ok": false,
+    "tried": [
+      "HW90-B14IG",
+      "HW90B14IG"
+    ]
+  },
+  "electrolux-ew8f229s": {
+    "id": "electrolux-ew8f229s",
+    "brand": "Electrolux",
+    "model": "EW8F229S",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/ecfe35a3988af92e6d29f41af7b65d12081ac0b4.jpg",
+      "https://images.icecat.biz/img/gallery/65111d18d9b4c707ec0b4c4d399b45454f0ce540.jpg",
+      "https://images.icecat.biz/img/gallery/87692d8e05d007a7aba1ee28de6a26e89a46080d.jpg",
+      "https://images.icecat.biz/img/gallery/28bd32df4cc70845d27884147383c06945b1c26f.jpg",
+      "https://images.icecat.biz/img/gallery/4ec19e47b9b6b972a9db06f963c52fbd05682229.jpg",
+      "https://images.icecat.biz/img/gallery/8c90c8c96a023f1a48e1781b257900ebeb503348.jpg"
+    ],
+    "title": "Electrolux EW8F229SP washing machine Front-load 9 kg 1151 RPM White",
+    "gtin": "7332543570898",
+    "productCode": "EW8F229SP"
+  },
+  "bosch-wtx87mh0by": {
+    "id": "bosch-wtx87mh0by",
+    "brand": "Bosch",
+    "model": "WTX87MH0BY",
+    "ok": false,
+    "tried": [
+      "WTX87MH0BY",
+      "WTX87MH0"
+    ]
+  },
+  "samsung-dv90t8240sh": {
+    "id": "samsung-dv90t8240sh",
+    "brand": "Samsung",
+    "model": "DV90T8240SH",
+    "ok": false,
+    "tried": [
+      "DV90T8240SH"
+    ]
+  },
+  "philips-ep3347": {
+    "id": "philips-ep3347",
+    "brand": "Philips",
+    "model": "EP3347/90 LatteGo",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/ee01030c03e06f08e453a913672ff848d95c9b89.jpg",
+      "https://images.icecat.biz/img/gallery/46bce4c1a62751d82ad4f907ce35a93b856a15a7.jpg",
+      "https://images.icecat.biz/img/gallery/20576f991f5846fbfaefa8d79852c8a2290cded1.jpg",
+      "https://images.icecat.biz/img/gallery/006bd2dbe7f86163dc92dfbe1ae85b03dbdebfca.jpg",
+      "https://images.icecat.biz/img/gallery/62ca734ba601b8cb3d5be71df0752e0eaccf7fcf.jpg",
+      "https://images.icecat.biz/img/gallery/f89a72b600b67fba64deafc7f6a77324c0893e84.jpg"
+    ],
+    "title": "Philips Series 3300 EP3347/90 Fully automatic espresso machine",
+    "gtin": "8720389030222",
+    "productCode": "EP3347/90"
+  },
+  "bosch-ctl636es6": {
+    "id": "bosch-ctl636es6",
+    "brand": "Bosch",
+    "model": "CTL636ES6",
+    "ok": false,
+    "tried": [
+      "CTL636ES6"
+    ]
+  },
+  "delonghi-ecam22064": {
+    "id": "delonghi-ecam22064",
+    "brand": "DeLonghi",
+    "model": "ECAM220.64.B Magnifica Start",
+    "ok": false,
+    "tried": [
+      "ECAM220.64.B",
+      "ECAM22064B",
+      "ECAM 220.64.B",
+      "ECAM220.64.B Magnifica Start",
+      "ECAM220.64.BMagnificaStart"
+    ]
+  },
+  "bork-k811": {
+    "id": "bork-k811",
+    "brand": "Bork",
+    "model": "K811",
+    "ok": false,
+    "tried": [
+      "K811"
+    ]
+  },
+  "xiaomi-kettle-2-pro": {
+    "id": "xiaomi-kettle-2-pro",
+    "brand": "Xiaomi",
+    "model": "Smart Kettle 2 Pro",
+    "ok": false,
+    "tried": [
+      "BHR4198EU",
+      "Kettle 2 Pro",
+      "MJDSH04YM",
+      "Smart Kettle 2 Pro",
+      "SmartKettle2Pro",
+      "Smart"
+    ]
+  },
+  "philips-hr3652": {
+    "id": "philips-hr3652",
+    "brand": "Philips",
+    "model": "HR3652/00",
+    "category": "blenders",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/bf6d24fe82d0662c01051b74e5dcdd61ebe3a98c.jpg",
+      "https://images.icecat.biz/img/gallery/aa10d613ef001b3f62a57b1cee2a52fe66dd52ec.jpg"
+    ]
+  },
+  "bork-b780": {
+    "id": "bork-b780",
+    "brand": "Bork",
+    "model": "B780",
+    "ok": false,
+    "tried": [
+      "B780"
+    ]
+  },
+  "bosch-mfq36400": {
+    "id": "bosch-mfq36400",
+    "brand": "Bosch",
+    "model": "MFQ36400",
+    "ok": false,
+    "tried": [
+      "MFQ36400"
+    ]
+  },
+  "philips-hd2581": {
+    "id": "philips-hd2581",
+    "brand": "Philips",
+    "model": "HD2581/00 Daily Collection",
+    "ok": true,
+    "source": "icecat",
+    "images": [
+      "https://images.icecat.biz/img/gallery/d12136b249ca59ce598095a57ed5252965725e5f.jpg",
+      "https://images.icecat.biz/img/gallery/4aefddceee7e94cb478d581891f92dd54ddbcdc0.jpg",
+      "https://images.icecat.biz/img/gallery/07c67234d6e197a86295d0c0facb5af3d43e4def.jpg",
+      "https://images.icecat.biz/img/gallery/1dc69aa2f65356af976710098be23079226f9c02.jpg",
+      "https://images.icecat.biz/img/gallery/03c2bffa8d473eab6552faabe60e63a8745e1ce9.jpg"
+    ],
+    "title": "Philips Daily Collection Toaster HD2581/00",
+    "gtin": "8710103800347",
+    "productCode": "HD2581/00"
+  },
+  "dyson-v15-detect": {
+    "id": "dyson-v15-detect",
+    "brand": "Dyson",
+    "model": "V15 Detect Absolute",
+    "ok": false,
+    "tried": [
+      "447000-01",
+      "V15 Detect Absolute",
+      "SV22",
+      "V15 Detect",
+      "V15DetectAbsolute",
+      "V15"
+    ]
+  },
+  "samsung-vs20b95923n": {
+    "id": "samsung-vs20b95923n",
+    "brand": "Samsung",
+    "model": "VS20B95923N Bespoke Jet",
+    "ok": false,
+    "tried": [
+      "VS20B95923N",
+      "VS20B95923N/GE",
+      "VS20B95923N Bespoke Jet",
+      "VS20B95923NBespokeJet"
+    ]
+  },
+  "xiaomi-x20-plus": {
+    "id": "xiaomi-x20-plus",
+    "brand": "Xiaomi",
+    "model": "Robot Vacuum X20+",
+    "ok": true,
+    "source": "wikimedia",
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Mi_Robot_Vacuum.jpeg/1920px-Mi_Robot_Vacuum.jpeg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Robot_Neum%C3%A1tico.jpg/1920px-Robot_Neum%C3%A1tico.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/XiaomiMiRobotVacuumCleanerRobot.jpg/1920px-XiaomiMiRobotVacuumCleanerRobot.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Xiaomi_robot_vacuum.jpg/1920px-Xiaomi_robot_vacuum.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Starship_delivery_robot_in_Espoo.jpg/1920px-Starship_delivery_robot_in_Espoo.jpg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_%E5%89%B5%E7%A7%91%E5%8D%9A%E8%A6%BD_InnoTech_Expo_Robot_dogs_with_feet_December_2022_Px3_04.jpg/1920px-HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_%E5%89%B5%E7%A7%91%E5%8D%9A%E8%A6%BD_InnoTech_Expo_Robot_dogs_with_feet_December_2022_Px3_04.jpg"
+    ],
+    "title": "",
+    "gtin": "",
+    "productCode": "Robot Vacuum X20+"
+  },
+  "samsung-vr50t95735w": {
+    "id": "samsung-vr50t95735w",
+    "brand": "Samsung",
+    "model": "VR50T95735W Jet Bot AI+",
+    "ok": false,
+    "tried": [
+      "VR50T95735W",
+      "VR50T95735W Jet Bot AI+",
+      "VR50T95735WJetBotAI+",
+      "VR50T95735WJetBotAI"
+    ]
+  }
+}

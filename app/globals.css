@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-canvas: #f6f6f3;
+  --color-surface: #ffffff;
+  --color-ink: #111111;
+  --color-muted: #6f6f6a;
+  --color-night: #111210;
+  --color-accent: #68715a;
+  --color-accent-hover: #556049;
+  --font-sans: var(--font-manrope);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 120;
+  border-radius: 999px;
+  background: #ffffff;
+  padding: 0.5rem 1rem;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+body {
+  background: #f6f6f3;
+  color: #111111;
+  font-family: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #68715a;
+  color: #ffffff;
+}
+
+:focus-visible {
+  outline: 2px solid #68715a;
+  outline-offset: 3px;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+input,
+textarea,
+select {
+  font: inherit;
+}
