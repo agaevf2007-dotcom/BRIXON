@@ -1,6 +1,11 @@
 import type { NextConfig } from "next";
 
+const githubPages = process.env.GITHUB_PAGES === "true";
+
 const nextConfig: NextConfig = {
+  output: "export",
+  trailingSlash: true,
+  basePath: githubPages ? "/BRIXON" : "",
   transpilePackages: ["@google/model-viewer"],
   images: {
     // Manufacturer CDNs are slow from this network; the optimizer aborts at 7s.

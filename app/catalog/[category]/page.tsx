@@ -25,13 +25,10 @@ export async function generateMetadata({
 
 export default async function CategoryPage({
   params,
-  searchParams,
 }: {
   params: Promise<{ category: string }>;
-  searchParams: Promise<{ brand?: string }>;
 }) {
   const { category } = await params;
-  const { brand } = await searchParams;
   const item = getCategory(category);
   if (!item) notFound();
 
@@ -39,9 +36,8 @@ export default async function CategoryPage({
     <>
       <CategoryHero slug={item.slug} />
       <CatalogView
-        key={`${item.slug}-${brand ?? ""}`}
+        key={item.slug}
         presetCategory={item.slug as CategorySlug}
-        presetBrand={brand}
         hideIntro
         heading={item.name.ru}
         description={item.description.ru}
